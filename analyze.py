@@ -1,6 +1,6 @@
 from collections import Counter
 import csv
-f = open('absentee11xx08xx2016.csv')
+f = open('assets/absentee11xx08xx2016.csv')
 
 
 
